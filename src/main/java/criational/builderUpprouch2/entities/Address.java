@@ -1,4 +1,4 @@
-package criational.bulder.entities;
+package criational.builderUpprouch2.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
