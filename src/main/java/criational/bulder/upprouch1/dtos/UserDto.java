@@ -1,4 +1,4 @@
-package criational.bulder.dtos;
+package criational.bulder.upprouch1.dtos;
 
 public interface UserDto {
 

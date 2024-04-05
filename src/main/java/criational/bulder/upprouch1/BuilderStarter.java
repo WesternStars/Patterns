@@ -1,10 +1,10 @@
-package criational.bulder;
+package criational.bulder.upprouch1;
 
-import criational.bulder.builders.UserDtoBuilder;
-import criational.bulder.builders.UserWebDtoBuilder;
-import criational.bulder.dtos.UserDto;
-import criational.bulder.entities.Address;
-import criational.bulder.entities.User;
+import criational.bulder.upprouch1.builders.UserDtoBuilder;
+import criational.bulder.upprouch1.builders.UserWebDtoBuilder;
+import criational.bulder.upprouch1.dtos.UserDto;
+import criational.bulder.upprouch1.entities.Address;
+import criational.bulder.upprouch1.entities.User;
 
 import java.time.LocalDate;
 

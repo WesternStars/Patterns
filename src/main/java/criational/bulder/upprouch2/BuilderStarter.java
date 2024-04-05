@@ -1,13 +1,13 @@
-package criational.builderUpprouch2;
+package criational.bulder.upprouch2;
 
-import criational.builderUpprouch2.dtos.UserDto;
-import criational.builderUpprouch2.dtos.UserDto.UserDtoBuilder;
-import criational.builderUpprouch2.entities.Address;
-import criational.builderUpprouch2.entities.User;
+import criational.bulder.upprouch2.dtos.UserDto;
+import criational.bulder.upprouch2.dtos.UserDto.UserDtoBuilder;
+import criational.bulder.upprouch2.entities.Address;
+import criational.bulder.upprouch2.entities.User;
 
 import java.time.LocalDate;
 
-import static criational.builderUpprouch2.dtos.UserDto.getUserDtoBuilder;
+import static criational.bulder.upprouch2.dtos.UserDto.getUserDtoBuilder;
 
 public class BuilderStarter {
     public static void main(String[] args) {

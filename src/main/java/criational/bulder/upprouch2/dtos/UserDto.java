@@ -1,6 +1,6 @@
-package criational.builderUpprouch2.dtos;
+package criational.bulder.upprouch2.dtos;
 
-import criational.builderUpprouch2.entities.Address;
+import criational.bulder.upprouch2.entities.Address;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.Setter;
